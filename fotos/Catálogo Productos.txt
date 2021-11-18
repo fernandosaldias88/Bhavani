@@ -1,0 +1,54 @@
+Cod.	SALES GOURMET x250 gs
+A1	Pimentón Ahumado y Ají Cayena
+A2	Mostaza y Romero
+A3	Ahumada y Pimienta
+A4	Salvia, Albahaca, Orégano y Romero
+A5	Ajo y Cebolla
+A6	Pimienta, Tomillo y Ajo
+A7	Ajo
+A8	Pimienta y Limón
+A9	Mix de Especias
+A10	Ají y Mostaza Negra
+A11	Sésamo y Pimiento
+A12	Jengibre, Limón y Ajo
+A15	Ajo y Laurel
+A16	Salvia y Mostaza
+A17	Comino y Tomillo
+A18	Cebolla y Curry
+A19	Parmesano y Albahaca
+A20	Paprika Ahumada y Orégano
+A21	Estragón y Nuez Moscada
+A22	Sabor Norteño
+A23	Sabor Patagónico
+A24	Sabor Criollo
+A25	Asado Criollo
+A26	Asado Criollo Ahumado
+A27	Ahumada
+A28	Morrón y Cebolla en Escamas
+A29	Morrón y Cebolla Ahumada
+A30	Morrón y Aji Cayena
+A31	Barbacoa
+A32	Mexicana
+A33	Wok
+A34	Agridulce
+
+
+Cod.	CROCANTES x130 gs
+C1	Crocante Para Carnes
+C2	Crocante Para Ensaladas
+
+
+Cod.	MIX x130 y x180 gs
+M1	Mix Gourmet x150 gs
+M2	Mix Ensalada x150 gs
+M3	Mix Energético x150 gs
+M4	Mix Oriental x180 gs
+M5	Mix Saludable x180 gs
+
+
+Cod.	SALES PARRILLERAS x450gs
+P1	Pimentón Ahumado y Ají Cayena
+P2	Finas hierbas
+P3	Mix Especias
+P4	Criolla
+P5	Ahumada

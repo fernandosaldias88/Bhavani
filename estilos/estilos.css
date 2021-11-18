@@ -1,0 +1,248 @@
+li {
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+  font-family: "Dancing Script", cursive;
+  font-weight: 900;
+  font-size: 500px;
+}
+
+/*  CON CLASS*/
+
+.text-muted {
+  text-decoration: none;
+}
+.textocentrado {
+  text-align: center;
+  padding: 0px 20% 20px 20%;
+  background-color: rgb(235, 235, 235);
+}
+
+.barranegra {
+  background-color: rgb(19, 19, 19);
+  height: 30px;
+  width: 100%;
+}
+
+.vidrio {
+  background-color: rgba(2, 1, 1, 0);
+  backdrop-filter: blur(5px);
+}
+
+.producto {
+  margin-left: 20%;
+  margin-bottom: 10%;
+}
+
+.parrillera {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.elemento {
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.titulosales {
+  color: rgb(255, 255, 255);
+  font-family: "Dancing Script", cursive;
+  font-weight: 900;
+  font-size: 150px;
+  text-align: center;
+}
+
+.alineacion {
+  margin: auto;
+  width: 10%;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.alineacionmix {
+  margin: auto;
+  width: 10%;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.carousel-item {
+  align-content: center;
+}
+
+.ms-3 {
+  font-size: 15px;
+}
+.text-muted {
+  text-decoration: none;
+}
+
+.titulo {
+  font-family: "Dancing Script", cursive;
+  font-size: 100px;
+  text-align: center;
+  margin: 10px 0 0 0;
+  padding: 0px 0px 10px 0px;
+  background-color: rgb(199, 199, 199);
+  color: rgb(255, 255, 255);
+}
+
+.espacio {
+  height: 100%;
+  width: 100%;
+  background-color: rgb(94, 94, 94);
+}
+
+.texto {
+  text-align: center;
+  padding: 100px 300px 100px 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+
+.texto1 {
+  text-align: center;
+  padding: 100px 300px 100px 300px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  color: rgb(48, 48, 48);
+}
+
+.textoyfoto {
+    display: flex;
+    flex-direction: row;
+    
+}
+.texto2 {
+   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 30px;
+  padding: 25px;
+  
+}
+
+.freebirdSolidBackground {
+  background-color: rgb(255 255 255);
+  color: rgb(255, 255, 255);
+}
+
+.formulario {
+  padding: none;
+  text-align: center;
+  margin: none;
+}
+
+/* PDF */
+
+
+.title {
+  text-align: center;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.pdfview {
+  margin: auto;
+  display: block;
+  width: 850px;
+  height: 100vh;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.textomenu {
+    font-family: "Dancing Script", cursive;
+    font-size: 30px;
+    
+}
+/*  CON ID*/
+
+#carnes {
+  background-image: url(../fotos/parrilla.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0px 100%;
+  padding: 20px 30px 20px 30px;
+  margin-top: 10px;
+}
+
+#nosotros {
+  font-family: "Dancing Script", cursive;
+  font-size: 100px;
+  text-align: center;
+  padding-top: 20px;
+}
+
+#sub {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: 700;
+}
+
+#mesa {
+  background-image: url(../fotos/mesa.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0px 100%;
+}
+#vidrio {
+  background-color: rgba(255, 255, 255, 0.082);
+  backdrop-filter: blur(5px);
+}
+
+#verduras {
+  background-image: url(../fotos/mujer_verduras.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0px 100%;
+  padding: 20px 30px 20px 30px;
+  margin-top: 10px;
+}
+
+#crocante {
+  background-image: url(../fotos/ensalada.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 0px 100%;
+  padding: 20px 30px 20px 30px;
+  margin-top: 10px;
+}
+/* RECETAS  ID Y CLASS*/
+
+#boxrecetas {
+    display: flex;
+    background-color: rgb(238, 238, 238);
+
+
+}
+#boxrecetas1 {
+    display: flex;
+    background-color: rgb(202, 202, 202);
+    
+}
+
+.receta1 {
+    padding: 20px;
+    
+
+}
+.linkrecetas {
+    text-decoration: none;
+    color: rgb(44, 44, 44);
+}
+
+h3 {
+    font-family: "Dancing Script", cursive;
+}
